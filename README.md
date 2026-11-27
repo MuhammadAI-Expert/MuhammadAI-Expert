@@ -22,7 +22,7 @@
   <a href="https://www.linkedin.com/in/maaz-agents">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:maazmughal.official@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=maazmughal.official@gmail.com&amp;su=Hiring%20Inquiry">
     <img src="https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://wa.me/923428863359">
@@ -72,7 +72,7 @@
 
 <p align="center">
   Need an AI agent, a RAG system, or an ML model?<br/>
-  <a href="mailto:maazmughal.official@gmail.com">📧 Email me</a>
+  <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=maazmughal.official@gmail.com&amp;su=Hiring%20Inquiry">📧 Email me</a>
   &nbsp;|&nbsp;
   <a href="https://wa.me/923428863359">💬 WhatsApp me</a>
   &nbsp;|&nbsp;
